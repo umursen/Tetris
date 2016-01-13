@@ -1,0 +1,5 @@
+God|99999
+Kaan|110
+Kaan|60
+Kaan|40
+Kaan|30
